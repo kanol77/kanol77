@@ -2,6 +2,7 @@
 - 👀 I’m interested in exploring the tech world!
 - 🌱 I’m currently learning new exciting things.
 - 💞️ I’m trying to become a better and more skillful person everyday!
+- 😎 Currently building up my skills as a front-end developer.
 
 <!---
 kanol77/kanol77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
