@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the tech world!
 - 🌱 I’m currently learning new exciting things.
 - 💞️ I’m trying to become a better and more skillful person everyday!
-- 😎 Currently building up my skills as a front-end developer.
+- 😎 Currently studying CS and data communications and building up my skills as a developer.
 - 🤩 Check out my CodeWars profile! => https://www.codewars.com/users/kanol77
 
 <!---
